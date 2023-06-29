@@ -71,7 +71,9 @@
 .last{
     display: grid;
     grid-template-columns: auto auto;
-    color:white
+    color:rgb(93, 25, 25);
+    box-shadow:2px 2px 2px #939ead;
+    width:2000px;
 
 }
 #by{

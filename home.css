@@ -2,8 +2,10 @@
     border-radius: 40px;
     height:40px;
     width:150px;
-    margin-top:3px;
+    margin-top:2px;
     background-color: rgb(220, 38, 38);
+    margin-left: 15px;
+    padding-top: 8px;
     
 }
 .navbar-nav {
@@ -170,7 +172,7 @@ margin-right: auto;
     margin-left:auto;
     margin-right:auto;
     border-width: 4px;
-    color:orangered;
+    color:rgb(168, 55, 35);
     text-align:center;
     align-items: center;
     width:70px;
@@ -209,7 +211,11 @@ margin-right: auto;
 .last{
     display: grid;
     grid-template-columns: auto auto;
-    color:white
+    color:white;
+    width:100%;
+    height:60px;
+    box-shadow:2px 2px 2px #939ead;
+    width:2000px;
 
 }
 #by{
